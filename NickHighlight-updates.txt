@@ -1,0 +1,42 @@
+New in NickHighlight v4.0
+(March 18. 2006)
+
+*Ability to ignore channels/nicknames
+*Added a new listing system to prevent mIRC "freezes"
+*Fixed minor bug with the highlight sounds
+
+
+New in Same Version (I'm tired of naming them :P):
+(August 24. 2005)
+
+*Fixed bug only showing 2 first highlight logs
+*Added checks for when addresses arn't found (IRC Services)
+*Added option to keep NickHighlight log overviewer hidden when a highlight is triggered
+*fixed the bug making it impossible to check other addresses found for the person
+
+
+
+New in NickHighlight v3.5:
+(June 23. 2005)
+
+*Added Backup creator for highlights
+*Support for $-identifiers (you can now use $me, or any custom ones you might see fit)
+
+
+
+New in NickHighlight v3:
+(May 1. 2004)
+
+*Added highlight for notices and actions aswell as just plain text
+*made a new dialog for adding words
+*Made it easier to disable highlighter with one simple checkbox instead of all 4
+*Made each word/nick have custom highlight sounds/music
+
+
+
+New in NickHighlight v2:
+(April 18. 2004)
+
+* Added a multiword feature
+* You can now specify midi's, wave's or mp3's as highlight sound
+* fixed some dialge issues and such
