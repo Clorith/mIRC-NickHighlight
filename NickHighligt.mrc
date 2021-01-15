@@ -545,7 +545,7 @@ menu * {
 }
 on *:LOAD: {
   echo -a NickHighlight by Marius successfully loaded, opening the Highlight options.
-  .dialog -mdo NickHighlight_options
+  .dialog -mdo NickHighlight_options NickHighlight_options
 }
 on *:UNLOAD: {
   echo -a NickHighlight variables are kept when unloading.
